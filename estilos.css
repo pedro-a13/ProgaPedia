@@ -1,0 +1,16 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.fondo{
+	text-align: center;
+	background-color: #A3E4D7;
+	padding: 35px;
+	margin: 0px;
+}
+
+.info{
+	font-size: 22px;
+	text-align: left;
+}
